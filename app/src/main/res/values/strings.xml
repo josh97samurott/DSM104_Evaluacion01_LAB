@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DSM104 Evaluation 1</string>
+    <string name="btn_foto">Take photo</string>
+    <string name="btn_save">Save photo</string>
+    <string name="txt_permission">This app is not going to work without Camera Permission</string>
+    <string name="info">You have already granted this permission to the camera app!</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DSM104 Evaluación 1</string>
+    <string name="btn_foto">Tomar Foto</string>
+    <string name="btn_save">Guardar foto</string>
+    <string name="txt_permission">Esta aplicación no funcionará sin el permiso de la cámara</string>
+    <string name="info">¡Ya has concedido permiso a la aplicación Cámara!</string>
+</resources>
